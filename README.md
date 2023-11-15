@@ -1,7 +1,7 @@
 # ASPNETCoreMVCSQLite
 /*Steps for setting up ASP.NET Core Web App (Model-View-Controller) for SQLite*/
 
-1. Create a new project
+1. Create a new project.
 Create a new project selecting ASP.Net Web App (Model-View-Controller) as the type of application.
 This has been followed with individual accounts settings for Authentication.
 2. Create a new class in Models and then add scaffolded item to project (MVC Controller with views, using EF).
