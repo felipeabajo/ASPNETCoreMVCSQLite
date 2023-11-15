@@ -3,7 +3,7 @@
 
 1. Create a new project selecting ASP.Net Web App (Model-View-Controller) as the type of application.
 This has been followed with individual accounts settings for Authentication.
-2. Create a new class in Models and then add scaffolded item to project (MVC Controller with views, using EF).
+2. Create a new class under Models folder and then add scaffolded item to project (MVC Controller with views, using EF).
 3. Install NuGet for SQLite (Manage NuGet Packages).
 4. Replace UsqSqlServer with UseSqlite in Program.cs.
 5. Replace value in ConnectionsStrings.DefaultConnection with "Data Source = REPLACEWITHDATABASENAME.db".
